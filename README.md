@@ -20,4 +20,4 @@ In this deliverable, you'll use your weather data skills to plan future vacation
 Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
 
 ## Assistance
-I received help for this assignment from the the Learning Assistants.
+I received help for this assignment from the the Learning Assistants. Additionally, I got help from stackflow in getting geoviews to work properly on my machine. 
